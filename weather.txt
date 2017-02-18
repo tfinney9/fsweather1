@@ -1,0 +1,1 @@
+PNTM8 weather at 09:54: 25.0F/-3.89C Relative Humidity: 100.0% Wind Speed: 10.0 mph at 101.0 degrees from north.
